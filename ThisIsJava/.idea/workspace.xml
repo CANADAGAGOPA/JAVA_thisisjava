@@ -33,6 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/User/Desktop/이것이_자바다/JAVA_thisisjava/ThisIsJava",
     "node.js.detected.package.eslint": "true",
@@ -52,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684830371237</updated>
       <workItem from="1684830372298" duration="1000" />
-      <workItem from="1684830459991" duration="812000" />
+      <workItem from="1684830459991" duration="3945000" />
     </task>
     <servers />
   </component>
