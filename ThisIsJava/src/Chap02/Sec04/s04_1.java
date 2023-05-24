@@ -1,6 +1,7 @@
 package Chap02.Sec04;
 
 public class s04_1 {
+    // 자동 타입 변환
     public static void main(String[] args) {
         byte byteValue = 10;
         int intValue = byteValue;
