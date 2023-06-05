@@ -4,7 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6aaae486-858a-4f74-b463-f4009e5a6c80" name="Changes" comment="" />
+    <list default="true" id="6aaae486-858a-4f74-b463-f4009e5a6c80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap02/Sec01/s01_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap02/Sec01/s01_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap02/Sec02/s02_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap02/Sec03/s03_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap02/Sec03/s03_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap02/Sec04/s04_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap02/Sec04/s04_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap02/Sec05/s05_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap02/Sec06/s06_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap03/Sec01/s01_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap03/Sec02/s02_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap03/Sec03/s03_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap03/Sec04/s04_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap03/Sec05/s05_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap03/Sec06/s06_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec01/s01_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec01/s01_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec01/s01_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec02/s02_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec02/s02_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec02/s02_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec03/s03_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec03/s03_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec04/s04_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec04/s04_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec05/s05_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec06/s06_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec06/s06_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap04/Sec07/s07_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec01/s01_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec02/s02_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec02/s02_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec03/s03_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec03/s03_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec03/s03_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec03/s03_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec03/s03_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec03/s03_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec03/s03_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec03/s03_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec04/s04_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec04/s04_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec04/s04_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec04/s04_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec05/s05_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec05/s05_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +117,7 @@
       <workItem from="1685593681376" duration="8970000" />
       <workItem from="1685779244303" duration="1156000" />
       <workItem from="1685825892021" duration="8143000" />
+      <workItem from="1685930389876" duration="1894000" />
     </task>
     <servers />
   </component>
