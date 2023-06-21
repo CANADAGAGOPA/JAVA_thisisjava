@@ -35,6 +35,9 @@
       <change afterPath="$PROJECT_DIR$/src/Chap04/Sec06/s06_1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Chap04/Sec06/s06_2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Chap04/Sec07/s07_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Prac/p7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Prac/p8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Prac/p9.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Chap05/Sec01/s01_1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Chap05/Sec02/s02_1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Chap05/Sec02/s02_2.java" afterDir="false" />
@@ -52,6 +55,50 @@
       <change afterPath="$PROJECT_DIR$/src/Chap05/Sec04/s04_4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Chap05/Sec05/s05_1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Chap05/Sec05/s05_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec06/s06_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec07/s07_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec08/s08_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec09/s09_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec10/s10_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec11/Week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap05/Sec11/s11_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/Car2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/Car3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/Car4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/Car5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/CarExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/CarExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/CarExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/CarExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/Korean2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/KoreanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/SportsCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec01/StudentExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec02/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec02/Calculator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec02/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec02/CalculatorExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec02/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec02/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec02/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec02/ComputerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec03/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec03/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec04/CalculatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec04/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec04/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec04/TelevisionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec05/Earth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec05/EarthExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec05/Korean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec05/KoreanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec06/SnowTire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chap06/Sec06/Tire.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -95,7 +142,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EarthExample">
+  <component name="RunManager" selected="Application.SmartPhoneExample">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap06.Sec04.Car" />
       <module name="ThisIsJava" />
@@ -135,8 +182,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SmartPhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap07.Sec01.SmartPhoneExample" />
+      <module name="ThisIsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap07.Sec01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SmartPhoneExample" />
         <item itemvalue="Application.EarthExample" />
         <item itemvalue="Application.KoreanExample" />
         <item itemvalue="Application.Car" />
@@ -182,6 +243,9 @@
       <workItem from="1686898726366" duration="4033000" />
       <workItem from="1687063481677" duration="2742000" />
       <workItem from="1687150894136" duration="1852000" />
+      <workItem from="1687237239307" duration="459000" />
+      <workItem from="1687259900651" duration="595000" />
+      <workItem from="1687325576353" duration="3201000" />
     </task>
     <servers />
   </component>
