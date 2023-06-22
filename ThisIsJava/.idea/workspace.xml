@@ -142,13 +142,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SmartPhoneExample">
+  <component name="RunManager" selected="Application.Chap07.Sec02.exam1.SmartPhoneExample">
     <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap06.Sec04.Car" />
       <module name="ThisIsJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Chap06.Sec04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap07.Sec02.exam1.SmartPhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap07.Sec02.exam1.SmartPhoneExample" />
+      <module name="ThisIsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Chap07.Sec02.exam1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,6 +210,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chap07.Sec02.exam1.SmartPhoneExample" />
         <item itemvalue="Application.SmartPhoneExample" />
         <item itemvalue="Application.EarthExample" />
         <item itemvalue="Application.KoreanExample" />
@@ -245,7 +259,8 @@
       <workItem from="1687150894136" duration="1852000" />
       <workItem from="1687237239307" duration="459000" />
       <workItem from="1687259900651" duration="595000" />
-      <workItem from="1687325576353" duration="3201000" />
+      <workItem from="1687325576353" duration="4496000" />
+      <workItem from="1687418646709" duration="1432000" />
     </task>
     <servers />
   </component>
