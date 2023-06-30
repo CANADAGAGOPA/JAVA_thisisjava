@@ -1,4 +1,4 @@
-package Chap06.Sec07.exam02.package2;
+package Chap06.Sec07.exam02.package2; // 패키지가 A, B 클래스와 다름
 
 import Chap06.Sec07.exam02.package1.*;
 public class C {
