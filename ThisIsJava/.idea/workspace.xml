@@ -142,7 +142,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Chap07.Sec02.exam2.SmartPhoneExample">
+  <component name="RunManager">
     <configuration name="Chap07.Sec02.exam1.SmartPhoneExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chap07.Sec02.exam1.SmartPhoneExample" />
       <module name="ThisIsJava" />
@@ -210,8 +210,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Chap07.Sec02.exam2.SmartPhoneExample" />
         <item itemvalue="Application.Chap07.Sec02.exam1.SmartPhoneExample" />
+        <item itemvalue="Application.Chap07.Sec02.exam2.SmartPhoneExample" />
         <item itemvalue="Application.SmartPhoneExample" />
         <item itemvalue="Application.EarthExample" />
         <item itemvalue="Application.KoreanExample" />
@@ -266,7 +266,9 @@
       <workItem from="1687664818410" duration="304000" />
       <workItem from="1687914642744" duration="340000" />
       <workItem from="1688001650598" duration="737000" />
-      <workItem from="1688097239888" duration="4896000" />
+      <workItem from="1688097239888" duration="5566000" />
+      <workItem from="1692947624687" duration="4141000" />
+      <workItem from="1693196210426" duration="4677000" />
     </task>
     <servers />
   </component>

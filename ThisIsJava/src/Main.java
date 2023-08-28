@@ -1,16 +1,13 @@
 public class Main {
     public static void main(String[] args) {
         int x = 10;
-        int y=  10;
-        int z = 10;
-        System.out.println("Hello world!");
+        int y = x;
 
-        int a = x / 3;
-        int b = y % 3;
-        System.out.println(a);
-        System.out.println(b);
+        System.out.println(x + y);
 
-        int value = 365;
-        System.out.println(value - (value % 100));
+        x = 5;
+
+        System.out.println(x);
+        System.out.println(y);
     }
 }

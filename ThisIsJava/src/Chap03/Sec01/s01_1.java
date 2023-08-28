@@ -13,7 +13,7 @@ public class s01_1 {
         long result2 = v1 + v2 - v4;
         System.out.println("result2 : " + result2);
 
-        double result3 = (double) v1 / v2;
+        double result3 = (double) v1 / v2; //소수점 이하까지 계산에 포함되는 숫자로 바꾸어서 나누기 연산을 수행
         System.out.println("result3 : " + result3);
 
         int result4 = v1 % v2;
