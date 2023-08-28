@@ -4,7 +4,7 @@ public class s01_1 {
     public static void main(String[] args) {
         int[] arr1; // 배열 변수 arr1 선언
         int[] arr2; // 배열 변수 arr2 선언
-        int[] arr3; // 배열 변스 arr3 선언
+        int[] arr3; // 배열 변수 arr3 선언
 
         arr1 = new int[] {1, 2, 3}; // 배열 {1, 2, 3}를 생성하고 arr1 변수에 대입
         arr2 = new int[] {1, 2, 3}; // 배열 {1, 2, 3}를 생성하고 arr2 변수에 대입

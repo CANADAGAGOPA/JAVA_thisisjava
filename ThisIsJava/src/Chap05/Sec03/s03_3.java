@@ -2,8 +2,8 @@ package Chap05.Sec03;
 
 public class s03_3 {
     public static void main(String[] args) {
-        String ssn = "9506241230123";
-        char sex = ssn.charAt(6);
+        String ssn = "950624-1230123";
+        char sex = ssn.charAt(7);
         switch (sex) {
             case '1':
             case '3':
